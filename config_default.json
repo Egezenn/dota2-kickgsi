@@ -1,0 +1,15 @@
+{
+  "gsi_name": "",
+  "channel_slug": "",
+  "prediction": {
+    "title_template": "<match-id> <time> <hero>",
+    "outcomes": ["Yes (Win)", "No (Lose)"],
+    "duration": 300
+  },
+  "obs": {
+    "rank": 1000,
+    "wins": 0,
+    "losses": 0,
+    "rank_delta": 25
+  }
+}
